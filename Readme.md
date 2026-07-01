@@ -114,7 +114,7 @@ Features:
 
 Project title
 Navigation buttons
-![](C:\Users\Mohamed\Documents\Delayed Flight\Fleight home.png)
+![](https://github.com/horiaahmed/DelayedFlight-Analysis/blob/main/Fleight%20home.png)
 
 ---
 
@@ -134,7 +134,7 @@ Visuals:
 - Delay Categories
 - Flights by Airline
 - Flights by Day
-![](C:\Users\Mohamed\Documents\Delayed Flight\overview.png)
+![](https://github.com/horiaahmed/DelayedFlight-Analysis/blob/main/overview.png)
 ---
 
 ## ✈️ Operational
@@ -158,7 +158,7 @@ Visuals:
 - NAS Delay
 - Security Delay
 - Late Aircraft Delay
-![](C:\Users\Mohamed\Documents\Delayed Flight\operational.png)
+![](https://github.com/horiaahmed/DelayedFlight-Analysis/blob/main/overview.png)
 ---
 
 # 📈 Project Workflow
